@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AMSViewTool::Renderer.copyright 'Aleksi Sinisalo', 'All rights reserved'
+```
 
 ## Development
 
